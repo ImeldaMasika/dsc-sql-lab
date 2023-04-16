@@ -24,7 +24,7 @@ Photo by <a href="https://unsplash.com/@bright?utm_source=unsplash&utm_medium=re
 
 Your employer makes miniature models of products such as classic cars, motorcycles, and planes. They want you to pull several reports on different segments of their past customers, in order to better understand past sales as well as determine which customers will receive promotional material.
 
-### Data Understanding
+### understanding
 
 You may remember this database from a previous lab. As a refresher, here's the ERD diagram for this database:
 
